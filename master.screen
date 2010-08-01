@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Browser" x="10" y="10" width="800" height="640" text="A Web Browser&#xA;http://picket.nophp.ru/" measuredWidth="800" measuredHeight="640"/>
+  <widgets xsi:type="model:WidgetGroup" x="600" y="72" measuredWidth="200" measuredHeight="83">
+    <widgets xsi:type="model:Panel" width="200" height="83" measuredWidth="200" measuredHeight="83" border="solid-rounded"/>
+    <widgets xsi:type="model:Text" x="10" text="*user/login box*" measuredWidth="105" measuredHeight="17">
+      <font/>
+    </widgets>
+  </widgets>
+  <widgets xsi:type="model:Label" x="20" y="72" text="Picket Bugtracker" measuredWidth="382" measuredHeight="59">
+    <font size="32"/>
+  </widgets>
+  <widgets xsi:type="model:LinkBar" x="20" y="130" text="Home,Help," measuredWidth="111" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HLine" x="10" y="154" width="800" measuredWidth="800" measuredHeight="6"/>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>
