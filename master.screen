@@ -10,10 +10,13 @@
   <widgets xsi:type="model:Label" x="20" y="72" text="Picket Bugtracker" measuredWidth="382" measuredHeight="59">
     <font size="32"/>
   </widgets>
-  <widgets xsi:type="model:LinkBar" x="20" y="130" text="Home,Help," measuredWidth="111" measuredHeight="25">
+  <widgets xsi:type="model:LinkBar" x="20" y="130" text="Home,Help,New bug,Changelog," measuredWidth="274" measuredHeight="25">
     <font/>
   </widgets>
   <widgets xsi:type="model:HLine" x="10" y="154" width="800" measuredWidth="800" measuredHeight="6"/>
+  <widgets xsi:type="model:Combo" x="472" y="72" text="Choose project" measuredWidth="120" measuredHeight="25"/>
+  <widgets xsi:type="model:SearchField" x="472" y="102" width="120" text="Search bugs" measuredWidth="120" measuredHeight="24"/>
+  <widgets xsi:type="model:HLine" x="20" y="125" width="572" measuredWidth="572" measuredHeight="6"/>
   <hRuler/>
   <vRuler/>
   <font/>

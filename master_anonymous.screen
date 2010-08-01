@@ -3,7 +3,7 @@
   <widgets xsi:type="model:Master" measuredWidth="800" measuredHeight="640" dimmed="true">
     <screen href="master.screen#/"/>
   </widgets>
-  <widgets xsi:type="model:LinkBar" x="120" y="120" text="Register" measuredWidth="54" measuredHeight="25">
+  <widgets xsi:type="model:LinkBar" x="283" y="120" text="Register" measuredWidth="54" measuredHeight="25">
     <font/>
   </widgets>
   <widgets xsi:type="model:TextField" x="599" y="77" width="80" text="Username" measuredWidth="80" measuredHeight="25">
