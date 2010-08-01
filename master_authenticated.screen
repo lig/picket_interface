@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Master" measuredWidth="800" measuredHeight="640" dimmed="true">
+    <screen href="master.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:LinkBar" x="283" y="120" text="?Admin,Profile,Logout" measuredWidth="174" measuredHeight="25">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>
