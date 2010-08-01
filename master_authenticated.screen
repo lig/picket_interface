@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
-  <widgets xsi:type="model:Master" measuredWidth="800" measuredHeight="640" dimmed="true">
+  <widgets xsi:type="model:Master" measuredWidth="1000" measuredHeight="640" dimmed="true">
     <screen href="master.screen#/"/>
   </widgets>
-  <widgets xsi:type="model:Text" x="600" y="75" width="177" height="70" text="Logged as *Serge Matveenko*, _&quot;Picket&quot;_ project _admin_.&#xA;?[Admin] | [Profile] | [Logout]" measuredWidth="177" measuredHeight="70">
+  <widgets xsi:type="model:Text" x="800" y="75" width="177" height="70" text="Logged as *Serge Matveenko*, _&quot;Picket&quot;_ project _admin_.&#xA;?[Admin] | [Profile] | [Logout]" measuredWidth="177" measuredHeight="70">
     <font/>
   </widgets>
   <hRuler/>

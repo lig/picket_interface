@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
-  <widgets xsi:type="model:Master" measuredWidth="800" measuredHeight="640" dimmed="true">
+  <widgets xsi:type="model:Master" measuredWidth="1000" measuredHeight="640" dimmed="true">
     <screen href="master.screen#/"/>
   </widgets>
-  <widgets xsi:type="model:TextField" x="599" y="77" width="80" text="Username" measuredWidth="80" measuredHeight="25">
-    <font/>
-  </widgets>
-  <widgets xsi:type="model:TextField" x="688" y="77" width="80" text="Password" measuredWidth="80" measuredHeight="25">
-    <font/>
-  </widgets>
-  <widgets xsi:type="model:Button" x="599" y="108" text="Login" measuredWidth="54" measuredHeight="27">
-    <font/>
-  </widgets>
-  <widgets xsi:type="model:Text" x="656" y="105" text="[Register] account or&#xA;use [OpenID]" measuredWidth="123" measuredHeight="34">
-    <font/>
+  <widgets xsi:type="model:WidgetGroup" x="801" y="77" measuredWidth="180" measuredHeight="62">
+    <widgets xsi:type="model:TextField" width="80" text="Username" measuredWidth="80" measuredHeight="25">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:TextField" x="89" width="80" text="Password" measuredWidth="80" measuredHeight="25">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Button" y="31" text="Login" measuredWidth="54" measuredHeight="27">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Text" x="57" y="28" text="[Register] account or&#xA;use [OpenID]" measuredWidth="123" measuredHeight="34">
+      <font/>
+    </widgets>
   </widgets>
   <hRuler/>
   <vRuler/>
