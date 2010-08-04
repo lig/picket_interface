@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
-  <widgets xsi:type="model:Master" measuredWidth="1000" measuredHeight="1239" dimmed="true">
+  <widgets xsi:type="model:Master" measuredWidth="1000" measuredHeight="1287" dimmed="true">
     <screen href="../master_authenticated.screen#/"/>
   </widgets>
   <widgets xsi:type="model:TabbedPane" x="100" y="160" width="800" height="1105" text="Overview,New bugs,Status changes,Comments" measuredWidth="800" measuredHeight="1105" selection="0"/>
   <widgets xsi:type="model:Text" x="110" y="200" width="763" text="h3. Seconds ago&#xA;&#xA;h4. [#159] Bug title that has new event&#xA;[@username] had made an event *event name* or [event link]:&#xA;_&quot;Event description and other info with contextual [links]&quot;_&#xA;&#xA;h3. Less than an hour ago&#xA;&#xA;h4. [#159] Bug title that has new event&#xA;[@username] had made an event *event name* or [event link]:&#xA;_&quot;Event description and other info with contextual [links]&quot;_&#xA;&#xA;h3. An hour ago&#xA;&#xA;h4. [#159] Bug title that has new event&#xA;[@username] had made an event *event name* or [event link]:&#xA;_&quot;Event description and other info with contextual [links]&quot;_&#xA;&#xA;h3. Four hours ago&#xA;&#xA;h4. [#159] Bug title that has new event&#xA;[@username] had made an event *event name* or [event link]:&#xA;_&quot;Event description and other info with contextual [links]&quot;_&#xA;&#xA;h4. [#159] Bug title that has new event&#xA;[@username] had made an event *event name* or [event link]:&#xA;_&quot;Event description and other info with contextual [links]&quot;_&#xA;&#xA;h3. Yesterday&#xA;&#xA;h4. [#159] Bug title that has new event&#xA;[@username] had made an event *event name* or [event link]:&#xA;_&quot;Event description and other info with contextual [links]&quot;_&#xA;&#xA;h3. 2010 July 13&#xA;&#xA;h4. [#159] Bug title that has new event&#xA;[@username] had made an event *event name* or [event link]:&#xA;_&quot;Event description and other info with contextual [links]&quot;_&#xA;" measuredWidth="763" measuredHeight="1042">
     <font/>
   </widgets>
+  <widgets xsi:type="model:Checkbox" x="743" y="160" text="make this tab default" measuredWidth="157" measuredHeight="25" selected="true" state="disabled"/>
   <hRuler/>
   <vRuler/>
   <font/>
