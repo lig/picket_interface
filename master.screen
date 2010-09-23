@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
-  <widgets xsi:type="model:Browser" x="10" y="10" width="1000" height="1287" text="A Web Browser&#xA;http://picket.nophp.ru/" measuredWidth="1000" measuredHeight="1287"/>
-  <widgets xsi:type="model:WidgetGroup" x="800" y="72" measuredWidth="200" measuredHeight="83">
+  <widgets xsi:type="model:Browser" width="1000" height="1287" text="A Web Browser&#xA;http://picket.nophp.ru/" measuredWidth="1000" measuredHeight="1287"/>
+  <widgets xsi:type="model:WidgetGroup" x="790" y="62" measuredWidth="200" measuredHeight="83">
     <widgets xsi:type="model:Panel" width="200" height="83" measuredWidth="200" measuredHeight="83" border="solid-rounded"/>
     <widgets xsi:type="model:Text" x="10" text="*user/login box*" measuredWidth="105" measuredHeight="17">
       <font/>
     </widgets>
   </widgets>
-  <widgets xsi:type="model:Label" x="20" y="72" text="Picket Bugtracker" measuredWidth="382" measuredHeight="59">
+  <widgets xsi:type="model:Label" x="10" y="62" text="Picket Bugtracker" measuredWidth="382" measuredHeight="59">
     <font size="32"/>
   </widgets>
-  <widgets xsi:type="model:LinkBar" x="20" y="130" text="New bug,Home,Workspace,Bug list,Help" measuredWidth="321" measuredHeight="25" selection="">
+  <widgets xsi:type="model:LinkBar" x="10" y="120" text="New bug,Home,Workspace,Bug list,Help" measuredWidth="321" measuredHeight="25" selection="">
     <font/>
   </widgets>
-  <widgets xsi:type="model:HLine" x="10" y="154" width="1000" measuredWidth="1000" measuredHeight="6"/>
-  <widgets xsi:type="model:Combo" x="642" y="130" width="150" text="Current project" measuredWidth="150" measuredHeight="25"/>
-  <widgets xsi:type="model:SearchField" x="401" y="72" width="391" text="Search bugs" measuredWidth="391" measuredHeight="24"/>
-  <widgets xsi:type="model:HLine" x="20" y="125" width="772" measuredWidth="772" measuredHeight="6"/>
-  <widgets xsi:type="model:RadioButton" x="422" y="97" text="Current project" measuredWidth="116" measuredHeight="25"/>
-  <widgets xsi:type="model:RadioButton" x="556" y="97" text="All projects" measuredWidth="90" measuredHeight="25"/>
+  <widgets xsi:type="model:HLine" y="144" width="1000" measuredWidth="1000" measuredHeight="6"/>
+  <widgets xsi:type="model:Combo" x="632" y="120" width="150" text="Current project" measuredWidth="150" measuredHeight="25"/>
+  <widgets xsi:type="model:SearchField" x="391" y="62" width="391" text="Search bugs" measuredWidth="391" measuredHeight="24"/>
+  <widgets xsi:type="model:HLine" x="10" y="115" width="772" measuredWidth="772" measuredHeight="6"/>
+  <widgets xsi:type="model:RadioButton" x="412" y="87" text="Current project" measuredWidth="116" measuredHeight="25"/>
+  <widgets xsi:type="model:RadioButton" x="546" y="87" text="All projects" measuredWidth="90" measuredHeight="25"/>
   <hRuler/>
   <vRuler/>
   <font/>
