@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Master" measuredWidth="1000" measuredHeight="1287" dimmed="true">
+    <screen href="master.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:TextArea" x="200" y="288" width="600" height="32" text="Bug subject" measuredWidth="600" measuredHeight="32">
+    <font size="16"/>
+  </widgets>
+  <widgets xsi:type="model:TextArea" x="200" y="380" width="600" height="300" text="Bug description" measuredWidth="600" measuredHeight="300">
+    <font size="16"/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="200" y="256" text="Subject" measuredWidth="53" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="200" y="344" text="Description" measuredWidth="77" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" x="200" y="808" text="Submit bug" measuredWidth="94" measuredHeight="27">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="200" y="712" text="Attach a file" measuredWidth="81" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextArea" x="200" y="744" width="600" height="32" text="File upload field" measuredWidth="600" measuredHeight="32">
+    <font size="16"/>
+  </widgets>
+  <widgets xsi:type="model:Checkbox" x="332" y="809" text="Return to this form after submitting" measuredWidth="246" measuredHeight="25"/>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>

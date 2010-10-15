@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Master" measuredWidth="1000" measuredHeight="1287" dimmed="true">
+    <screen href="../master.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:HSlider" x="100" y="202" width="800" measuredWidth="800" measuredHeight="17" value="50"/>
+  <widgets xsi:type="model:VLine" x="302" y="202" height="21" measuredWidth="6" measuredHeight="21"/>
+  <widgets xsi:type="model:VLine" x="498" y="202" height="21" measuredWidth="6" measuredHeight="21"/>
+  <widgets xsi:type="model:VLine" x="894" y="202" height="21" measuredWidth="6" measuredHeight="21"/>
+  <widgets xsi:type="model:VLine" x="100" y="202" height="21" measuredWidth="6" measuredHeight="21"/>
+  <widgets xsi:type="model:Label" x="56" y="178" text="Good advice" measuredWidth="84" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="472" y="178" text="Just a bug" measuredWidth="68" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="852" y="178" text="Armageddon" measuredWidth="88" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" x="256" y="178" text="Annoying thing" measuredWidth="100" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:VLine" x="704" y="202" height="21" measuredWidth="6" measuredHeight="21"/>
+  <widgets xsi:type="model:Label" x="680" y="178" text="Big crash" measuredWidth="64" measuredHeight="25">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font/>
+</model:Screen>
